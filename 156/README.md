@@ -5,11 +5,9 @@ The Drug Inventory and Supply Chain Management System is a comprehensive softwar
 
 ## Modules
 1. **Inventory Management**: Tracks medical supplies and equipment, maintains stock levels, and prevents shortages.
-2. **Verification**: Facilitates swift patient registration and verification processes.
 3. **Sales Management**: Manages sales transactions and resource allocation for optimal patient care.
 4. **Order Tracking**: Monitors referrals and ensures timely management of orders.
 5. **Staff Training**: Organizes and tracks staff training programs and schedules.
-6. **Chat-Bot**: Provides streamlined communication and assistance through an interactive chatbot.
 7. **Feedback System**: Collects and manages patient feedback to drive continuous improvement.
 8. **Help Center**: Offers timely assistance and support resources for users.
 9. **User Authentication**: Secure login and registration system for users.
